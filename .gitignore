@@ -1,0 +1,6 @@
+# ignore data folders
+reuters21578/
+yellowbrick/
+atap/
+20news-bydate/
+*/
